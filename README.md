@@ -15,11 +15,11 @@ this is file tree example
 ├── slackbot_manager.py  
 └── slackbot_settings.py  
 
-please install slacker.
+please install slacker.  
 pip で必要な slacker をインストール  
 `pip install slacker`  
 
-After that, please ramake ***slackbot_manager.py*** & ***slackbot_settings.py*** scripts.
+After that, please ramake ***slackbot_manager.py*** & ***slackbot_settings.py*** scripts.  
 インストール後, ***slackbot_manager.py*** と ***slackbot_settings.py*** を書き換える.  
 
 
@@ -32,7 +32,6 @@ After that, please ramake ***slackbot_manager.py*** & ***slackbot_settings.py***
   click user_icon -> view profile-> clicl "・・・" button -> use member ID  
   ユーザーの名前(任意)とユーザーid(マスト)を取得する.  
   ユーザーiconをクリックして,プロフィールを開ける. ・・・ボタンを押すと確認可能.  
-
   2. change attachment title,text,color  
   attachmentの中を変更する  
   3. change channel name  l24  
