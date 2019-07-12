@@ -8,7 +8,7 @@ please git clone this repository.
 リポジトリをクローンする.  
 そして以下のように配置する.  
 
-<this is file tree example>  
+this is file tree example  
 .  
 ├── README.md  
 ├── run.py  
@@ -40,7 +40,7 @@ After that, please ramake ***slackbot_manager.py*** & ***slackbot_settings.py***
   </dd>
   <dt>slackbot_settings.py</dt>
   <dd>
-  1. please get your channel API TOKEN. [how to](https://qiita.com/ykhirao/items/0d6b9f4a0cc626884dbb ) (in Japanese) 
+  1. please get your channel API TOKEN. [how to](https://qiita.com/ykhirao/items/0d6b9f4a0cc626884dbb ) (in Japanese)
   APIトークンを取得する.参照は上記
   </dd>
 </dl>
