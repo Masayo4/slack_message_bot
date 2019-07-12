@@ -33,7 +33,7 @@ After that, please ramake ***slackbot_manager.py*** & ***slackbot_settings.py***
 1. slackbot_settings.py
     1. please get your channel API TOKEN.  
     [how to](https://qiita.com/ykhirao/items/0d6b9f4a0cc626884dbb ) (in Japanese)
-
+      
 2. slackbot_manager.py
     2. ユーザーの名前(任意)とユーザーid(マスト)を取得する.  
     ユーザーiconをクリックして,プロフィールを開ける. ・・・ボタンを押すと確認可能  
