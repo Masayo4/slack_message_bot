@@ -27,7 +27,7 @@ After that, please ramake ***slackbot_manager.py*** & ***slackbot_settings.py***
 <dl>
   <dt>slackbot_manager.py</dt>
   <dd>
-  1. input user_names & user_ids  
+  1. input user_names & user_ids    
   these use for mention in slack. Please check user_profile.  
   click user_icon -> view profile-> clicl "・・・" button -> use member ID  
   ユーザーの名前(任意)とユーザーid(マスト)を取得する.  
