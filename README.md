@@ -29,7 +29,7 @@ After that, please ramake ***slackbot_manager.py*** & ***slackbot_settings.py***
   <dt>slackbot_settings.py</dt>
   <dd>
   1. please get your channel API TOKEN. [how to](https://qiita.com/ykhirao/items/0d6b9f4a0cc626884dbb )
-  /dd>
+  </dd>
 </dl>
 
 In the your shell,
@@ -37,5 +37,5 @@ In the your shell,
 
 **Finish!!**
 
-##Requirements  
+## Requirements  
 you need python3 or pyenv.
