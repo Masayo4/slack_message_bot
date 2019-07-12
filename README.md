@@ -30,8 +30,8 @@ After that, please ramake ***slackbot_manager.py*** & ***slackbot_settings.py***
   1. input user_names & user_ids    
   these use for mention in slack. Please check user_profile.  
   click user_icon -> view profile-> clicl "・・・" button -> use member ID  
-  2. change attachment title,text,color  
-  3. change channel name  l24  
+  1. change attachment title,text,color  
+  1. change channel name  l24  
   </dd>
   <dt>slackbot_settings.py</dt>
   <dd>
@@ -44,8 +44,8 @@ After that, please ramake ***slackbot_manager.py*** & ***slackbot_settings.py***
   <dd>
   1. ユーザーの名前(任意)とユーザーid(マスト)を取得する.  
   ユーザーiconをクリックして,プロフィールを開ける. ・・・ボタンを押すと確認可能  
-  2. attachmentの中を変更する
-  3. チャンネルの名前を変更する  
+  1. attachmentの中を変更する
+  1. チャンネルの名前を変更する  
   </dd>
   <dt>slackbot_settings.py</dt>
   <dd>
