@@ -30,8 +30,9 @@ After that, please ramake ***slackbot_manager.py*** & ***slackbot_settings.py***
       click user_icon -> view profile-> clicl "・・・" button -> use member ID  
     1. change attachment title,text,color
     1. change channel name  l24
-2. slackbot_settings.py
-    2. please get your channel API TOKEN. [how to](https://qiita.com/ykhirao/items/0d6b9f4a0cc626884dbb ) (in Japanese)
+1. slackbot_settings.py
+    1. please get your channel API TOKEN.  
+    [how to](https://qiita.com/ykhirao/items/0d6b9f4a0cc626884dbb ) (in Japanese)
 
 <dl>
   <dt>slackbot_manager.py</dt>
