@@ -44,6 +44,20 @@ After that, please ramake ***slackbot_manager.py*** & ***slackbot_settings.py***
   </dd>
 </dl>
 
+<dl>
+  <dt>slackbot_manager.py</dt>
+  <dd>
+  1. ユーザーの名前(任意)とユーザーid(マスト)を取得する.  
+  ユーザーiconをクリックして,プロフィールを開ける. ・・・ボタンを押すと確認可能.  
+  2. attachmentの中を変更する  
+  3. チャンネルの名前を変更する  
+  </dd>
+  <dt>slackbot_settings.py</dt>
+  <dd>
+  1. APIトークンを取得する.参照は上記
+  </dd>
+</dl>
+
 In the your shell,
 `$ python slackbot_manager.py`
 
