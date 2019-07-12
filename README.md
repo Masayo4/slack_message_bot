@@ -27,6 +27,11 @@ After that, please ramake ***slackbot_manager.py*** & ***slackbot_settings.py***
 <dl>
   <dt>slackbot_manager.py</dt>
   <dd>
+  1. 番号付きリスト1
+    1. 番号付きリスト1_1
+    1. 番号付きリスト1_2
+1. 番号付きリスト2
+1. 番号付きリスト3
   1. input user_names & user_ids
   these use for mention in slack. Please check user_profile.
   click user_icon -> view profile-> clicl "・・・" button -> use member ID
