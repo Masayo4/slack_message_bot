@@ -1,10 +1,10 @@
-#Slackbot  
+# Slackbot  
 =====  
-##Overview  
+## Overview  
 you can make announce bot in slack.  
 slackでアナウンスができるbotの作成. (自動化する際は時間を指定すればOK)  
 
-##Usage  
+## Usage  
 please git clone this repository.
 
 .  
