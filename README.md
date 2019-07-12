@@ -24,25 +24,14 @@ After that, please ramake ***slackbot_manager.py*** & ***slackbot_settings.py***
 
 
 
-<dl>
-  <dt>slackbot_manager.py</dt>
-  <dd>
-  1. 番号付きリスト1
-    1. 番号付きリスト1_1
-    1. 番号付きリスト1_2
-1. 番号付きリスト2
-1. 番号付きリスト3
-  1. input user_names & user_ids
-  these use for mention in slack. Please check user_profile.
-  click user_icon -> view profile-> clicl "・・・" button -> use member ID
+1. slackbot_manager.py
+  1. input user_names & user_ids  
+    these use for mention in slack. Please check user_profile.  
+    click user_icon -> view profile-> clicl "・・・" button -> use member ID  
   1. change attachment title,text,color
   1. change channel name  l24
-  </dd>
-  <dt>slackbot_settings.py</dt>
-  <dd>
+1. slackbot_settings.py
   1. please get your channel API TOKEN. [how to](https://qiita.com/ykhirao/items/0d6b9f4a0cc626884dbb ) (in Japanese)
-  </dd>
-</dl>
 
 <dl>
   <dt>slackbot_manager.py</dt>
