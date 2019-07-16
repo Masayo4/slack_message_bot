@@ -32,5 +32,5 @@ def announce():
 if __name__ =='__main__':
     slack =Slacker(slackbot_settings.API_TOKEN)
     print("start")
-    haefeli_announce()
+    announce()
     print("End")
